@@ -40,6 +40,17 @@ $navbar-default-bg: black;
   background-color: black;
 }
 
+.article-actions {
+  border-top: 1px solid #eaeaea;
+  padding-top: 5px;
+  /* this puts a border around the buttons to edit, view and delete */ 
+}
+
+.description {
+  margin-top: 0;
+  /*this decreases the margin from the description top of the margin to the word description*/
+}
+
 .footer {
   margin-top: 45px;
   padding-top: 1px solid #eaeaea;
